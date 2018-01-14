@@ -52,8 +52,6 @@ apps=(
     moreutils
     findutils
     ffmpeg
-    fortune
-    ponysay
     git
     git-extras
     hub

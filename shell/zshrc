@@ -98,6 +98,3 @@ source $ZSH/oh-my-zsh.sh
 
 # npm tab completion
 . <(npm completion)
-
-# fortune: brew install fortune ponysay
-fortune | ponysay
