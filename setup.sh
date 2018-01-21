@@ -241,7 +241,6 @@ main() {
     'crlf'
     'dups'
     'git-delete-merged-branches'
-    'nyan'
     'passive'
     'proofread'
     'ssh-key'
